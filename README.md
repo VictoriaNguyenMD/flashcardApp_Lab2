@@ -1,13 +1,12 @@
 ## Lab 2
+CodePath: Introduction to Android Studio
 
 ### App Description
-
+A flashcard application was created to allow users to add a new flashcard question to the deck.
 
 ### App Walk-though
 
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
+<img src="https://s5.gifyu.com/images/FlashcardApp_Lab2.gif" width=200><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
